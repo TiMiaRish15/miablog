@@ -1,0 +1,39 @@
+body {
+    position: relative; 
+}
+
+#section1 p {
+text-align: center;
+}
+
+#section2 p {
+text-align: center;
+}
+
+#section3 p {
+text-align: center;
+}
+
+#section4 p {
+text-align: center;
+}
+
+#section1 {
+border: 30px solid #00FF9C; /* 10px thick black border */
+}
+
+#section2 {
+border: 30px solid #00FF9C; /* 10px thick black border */
+}
+
+#section3 {
+border: 30px solid #00FF9C; /* 10px thick black border */
+}
+
+#section4 {
+border: 30px solid #00FF9C; /* 10px thick black border */
+}
+
+h2 {
+text-align: center;
+}
